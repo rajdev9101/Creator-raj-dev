@@ -4,7 +4,7 @@
   <img src="" alt=" Logo">
 </p>
 
-<h1 align="center">𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃 raj</h1>
+<h1 align="center">raj</h1>
 
 ---
 
@@ -25,11 +25,11 @@
 
 ## 🙏 Special Thanks To
 
-- 🌴 [⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |](https://t.me/BeingXAnonymous)
-- 🌴 [⌯ ᴢɪsʜᴀɴ | ×͜× |](https://t.me/IM_JISSHU)
+- 🌴 [⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |](https://t.me/)
+- 🌴 [⌯ ᴢɪsʜᴀɴ | ×͜× |](https://t.me)
 - 🌴 [⌯ ʙʜᴀʀᴀᴛʜ | ×͜× |](https://t.me/Bharath_boy)
-- 🌴 [Harshal Purohit Edits](https://github.com/HarshalPurohitEdits)
-- 🌴 [Support Group](https://t.me/Deendayal_Support_Group)
+- 🌴 [Harshal Purohit Edits]()
+- 🌴 [Support Group](https://t.me/)
 
 ---
 
