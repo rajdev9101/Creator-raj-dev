@@ -216,7 +216,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/raj_dev_01">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/raj_dev01">[ RAJ_DEV ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/raj_dev_01">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/raj_dev_01">[ RAJ_DEV ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
