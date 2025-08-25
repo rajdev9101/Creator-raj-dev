@@ -1,7 +1,7 @@
 <h1 align="center"><b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b></h1>
 
 <p align="center">
-  <img src="" alt="DreamxBotz Logo">
+  <img src="" alt=" Logo">
 </p>
 
 <h1 align="center">𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃 raj</h1>
