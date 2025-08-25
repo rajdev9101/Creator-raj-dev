@@ -8,21 +8,9 @@
 
 ---
 
-## 👤 Owner
-
-[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/Deendayal_Support_Group)
-
----
-
-<!-- > ## ⚠ <u>Under Maintenance</u> ⚠  
-> This repository is currently under maintenance. Please **DO NOT deploy** until further notice. -->
-
-## 🚀 Demo Bot
 
 
-Try the live bot here:
 
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/Princess_V4_bot)
 
 ---
 
