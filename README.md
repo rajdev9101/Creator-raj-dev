@@ -1,10 +1,10 @@
 <h1 align="center"><b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b></h1>
 
 <p align="center">
-  <img src="https://github.com/DreamXBotz/Pics/blob/main/dreamxbotz.jpg" alt="DreamxBotz Logo">
+  <img src="" alt="DreamxBotz Logo">
 </p>
 
-<h1 align="center">𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</h1>
+<h1 align="center">𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃 raj</h1>
 
 ---
 
